@@ -6,7 +6,7 @@ hero:
   name: "RuoyiAppBest"
   text: "好用的若依移动端框架"
   tagline: "由山科智心团队打造，为开发者提供最佳的移动端开发框架。"
-  image: /static/logo/logo.svg
+  image: /logo/logo.svg
   actions:
     - theme: brand
       text: 快速开始
