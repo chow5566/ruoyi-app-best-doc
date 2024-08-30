@@ -9,6 +9,9 @@ export default defineConfig({
   base: '/ruoyi-app-best-doc/', // 部署到github pages的路径
   themeConfig: {
     logo: '/logo/logo.svg',
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
     search: {
       provider: 'local'
     },
