@@ -5,7 +5,7 @@ export default defineConfig({
   title: "RuoyiAppBest",
   description: "若依移动端框架，支持H5、APP、微信小程序(其他未测)",
   theme: './theme/index.js', // 使用自定义主题
-  outDir: '../public', // 输出目录
+  // outDir: '../public', // 输出目录
   base: '/ruoyi-uni-app-best-doc/', // 部署到github pages的路径
   themeConfig: {
     logo: '/static/logo/logo.svg',
