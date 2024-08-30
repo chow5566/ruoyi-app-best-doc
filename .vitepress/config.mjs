@@ -8,7 +8,7 @@ export default defineConfig({
   // outDir: '../public', // 输出目录
   base: '/ruoyi-app-best-doc/', // 部署到github pages的路径
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/ruoyi-app-best-doc/favicon.ico' }]
   ],
   themeConfig: {
     logo: '/logo/logo.svg',
