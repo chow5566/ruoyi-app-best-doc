@@ -7,11 +7,11 @@ export default defineConfig({
   theme: './theme/index.js', // 使用自定义主题
   // outDir: '../public', // 输出目录
   base: '/ruoyi-app-best-doc/', // 部署到github pages的路径
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     logo: '/logo/logo.svg',
-    head: [
-        ['link', { rel: 'icon', href: '/favicon.ico' }]
-    ],
     search: {
       provider: 'local'
     },
