@@ -11,6 +11,9 @@ hero:
     - theme: brand
       text: 快速开始
       link: /docs/quick-start
+    - theme: alt
+      text: 预览H5
+      link: https://chow5566.github.io/ruoyi-app-best
 
 features:
   - title: Vue3 + Vite4 + Pnpm 就是快

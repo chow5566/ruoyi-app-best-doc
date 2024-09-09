@@ -9,6 +9,10 @@ RuoyiAppBest是基于[若依管理系统](https://ruoyi.vip/)最好的[uniapp](h
 RuoyiAppBest内置了请求封装、Tailwind CSS、字典翻译、ECharts图表等基础功能，提供了代码提示、
 自动格式化、统一配置等辅助功能，让你编写若依移动端拥有best体验（RuoyiAppBest的由来）。
 
+## 预览H5效果
+
+[H5预览效果](https://chow5566.github.io/ruoyi-app-best)
+
 ## 生成过程
 
 RuoyiAppBest 由最初始的官方 cli 脚手架模板生成，执行的命令如下：
