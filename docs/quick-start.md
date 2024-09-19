@@ -14,3 +14,9 @@ RuoyiAppBest 目前**仅支持H5、APP、微信小程序**，其他端未作测�
 - Node.js -  `>= 18`(推荐使用`18.17+`)
 - pnpm -  `>= 7.30`(推荐使用`8.12+`)
 - IDE - `WebStorm`
+
+## 下载项目
+
+```bash
+git clone https://github.com/chow5566/ruoyi-app-best.git
+```
