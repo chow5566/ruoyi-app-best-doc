@@ -25,7 +25,13 @@ export default defineConfig({
           { text: '什么是RuoyiAppBest?', link: '/docs/what-is-ruoyi-uni-best' },
           { text: '快速开始', link: '/docs/quick-start' }
         ]
-      }
+      },
+      {
+        text: '开发指南',
+        items: [
+          { text: '权限控制篇', link: '/docs/perms' },
+        ]
+      },
     ],
 
     socialLinks: [
